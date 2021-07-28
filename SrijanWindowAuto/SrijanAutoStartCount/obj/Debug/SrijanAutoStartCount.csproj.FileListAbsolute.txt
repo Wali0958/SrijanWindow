@@ -1,0 +1,28 @@
+C:\Users\Mohammad Wali\Desktop\SrijanWindowAuto\SrijanAutoStartCount\bin\Debug\SrijanAutoStartCount.exe.config
+C:\Users\Mohammad Wali\Desktop\SrijanWindowAuto\SrijanAutoStartCount\bin\Debug\SrijanAutoStartCount.exe
+C:\Users\Mohammad Wali\Desktop\SrijanWindowAuto\SrijanAutoStartCount\bin\Debug\SrijanAutoStartCount.pdb
+C:\Users\Mohammad Wali\Desktop\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.Form1.resources
+C:\Users\Mohammad Wali\Desktop\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.Properties.Resources.resources
+C:\Users\Mohammad Wali\Desktop\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.csproj.GenerateResource.cache
+C:\Users\Mohammad Wali\Desktop\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Wali\Desktop\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.exe
+C:\Users\Mohammad Wali\Desktop\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.pdb
+D:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\bin\Debug\SrijanAutoStartCount.exe.config
+D:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\bin\Debug\SrijanAutoStartCount.exe
+D:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\bin\Debug\SrijanAutoStartCount.pdb
+D:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.Form1.resources
+D:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.Properties.Resources.resources
+D:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.csproj.GenerateResource.cache
+D:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.csproj.CoreCompileInputs.cache
+D:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.exe
+D:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.pdb
+F:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\bin\Debug\SrijanAutoStartCount.exe.config
+F:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\bin\Debug\SrijanAutoStartCount.exe
+F:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\bin\Debug\SrijanAutoStartCount.pdb
+F:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.Form1.resources
+F:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.Properties.Resources.resources
+F:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.csproj.GenerateResource.cache
+F:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.csproj.CoreCompileInputs.cache
+F:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.exe
+F:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.pdb
+F:\New Work Office\SrijanWindowAuto\SrijanAutoStartCount\obj\Debug\SrijanAutoStartCount.csprojAssemblyReference.cache
